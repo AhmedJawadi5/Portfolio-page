@@ -1,0 +1,24 @@
+.headerFooter {
+    background-color:rgb(23, 57, 89);
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px 0px 20px 0px;
+}
+
+body{
+    margin: 0;
+    background-color:rgb(216, 214, 214);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section {
+    background-color:white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 5px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+}
